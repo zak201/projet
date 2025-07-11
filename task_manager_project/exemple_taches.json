@@ -1,0 +1,50 @@
+[
+  {
+    "id": "57b30200-9e55-48c6-b3d4-b1eac9d9b86f",
+    "title": "Implémenter l'authentification",
+    "description": "Système d'authentification JWT avec OAuth2",
+    "priority": "high",
+    "status": "completed",
+    "project": "Application Web",
+    "assignee": "Bob",
+    "due_date": "2024-12-10T23:59:59",
+    "created_at": "2025-07-11T09:21:16.020239",
+    "updated_at": "2025-07-11T09:21:16.038956"
+  },
+  {
+    "id": "fac52952-6ac2-4ca6-b4b3-937055eb453d",
+    "title": "Écrire les tests unitaires",
+    "description": "Tests pour les modules principaux",
+    "priority": "medium",
+    "status": "todo",
+    "project": "Application Web",
+    "assignee": "Charlie",
+    "due_date": "2024-12-20T23:59:59",
+    "created_at": "2025-07-11T09:21:16.020264",
+    "updated_at": "2025-07-11T09:21:16.020267"
+  },
+  {
+    "id": "fa75d747-0188-4c01-b0d4-2058cf601c5b",
+    "title": "Déployer en production",
+    "description": "Configuration du serveur et déploiement",
+    "priority": "high",
+    "status": "review",
+    "project": "Application Web",
+    "assignee": "David",
+    "due_date": "2024-12-25T23:59:59",
+    "created_at": "2025-07-11T09:21:16.020278",
+    "updated_at": "2025-07-11T09:21:16.020280"
+  },
+  {
+    "id": "1344b64c-158b-4e9f-80f9-f45cad7c3d2f",
+    "title": "Documentation utilisateur",
+    "description": "Rédiger le manuel utilisateur",
+    "priority": "low",
+    "status": "completed",
+    "project": "Application Web",
+    "assignee": "Eve",
+    "due_date": "2024-12-05T23:59:59",
+    "created_at": "2025-07-11T09:21:16.020292",
+    "updated_at": "2025-07-11T09:21:16.020295"
+  }
+]
