@@ -293,7 +293,7 @@ def main():
     email_service = EmailService()
     print("📧 Test du service email...")
     try:
-        result = email_service.send_notification("test@example.com", "Test de notification", "Ceci est un test")
+        result = email_service.send_completion_notification("test@example.com", "Test de notification")
         print(f"✅ Email envoyé: {result}")
     except Exception as e:
         print(f"❌ Erreur email: {e}")

@@ -11,7 +11,7 @@ import json
 import pytest
 
 # Ajouter le dossier src au path pour pouvoir importer les modules
-sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'src'))
+sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
 
 from task_manager import Task, Priority, Status, TaskManager
 
